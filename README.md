@@ -66,6 +66,8 @@ The transfer learning is applied and the convolutional layers only kept in each 
 
 Check Models training ➡️ (https://github.com/gialkady/Capstone-Project/tree/main/Models%20Training)
 
+## Results
+
 ## Local Deployment
 
 Tools: mac laptop, pycharm and anaconda3
