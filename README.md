@@ -1,5 +1,5 @@
 ## Best restaurant to serve
-![img](https://github.com/gialkady/ml_zoomcamp/blob/Homeworks/Capstone%20Project/images/istockphoto-531306158-612x612.jpeg)
+![img](https://github.com/gialkady/Capstone-Project/blob/main/images/istockphoto-531306158-612x612.jpeg)
 
 
 ## overview 
@@ -17,7 +17,7 @@ In this project, we tried to make your dreams come true. The idea is a web servi
 - ML engine based on deep learning will classify the image (food class). 
 - According to the class of food, the system will response with the name of the best restaurant to serve the dish in the user's city.
 
-![img](https://github.com/gialkady/ml_zoomcamp/blob/Homeworks/Capstone%20Project/images/Best%20Restaurant%20to%20serve.png)
+![img](https://github.com/gialkady/Capstone-Project/blob/main/images/Best%20Restaurant%20to%20serve.png)
 
 ## Dataset
 
@@ -52,19 +52,19 @@ train ='./food-101/meta/train.txt'
 
 test ='./food-101/meta/test.txt'
 
-Check EDA and Data preparation notebook ➡️ (https://github.com/gialkady/ml_zoomcamp/tree/Homeworks/Capstone%20Project)
+Check EDA and Data preparation notebook ➡️ (https://github.com/gialkady/Capstone-Project)
 
 ## Models training 
 
 Three models are trained through which we will choose the best model to use for our application which are:
 
-- ✅ **Xception** 
-- ✅ **InceptionV3** 
-- ✅ **DenseNet121**
+ ✅ **Xception** 
+ ✅ **InceptionV3** 
+ ✅ **DenseNet121**
 
 The transfer learning is applied and the convolutional layers only kept in each model.The best model is used based on the best performance of the model seen from accuracy score of the validation data for each trained model by using checkpointer to save best model.
 
-Check Models training ➡️ (https://github.com/gialkady/ml_zoomcamp/tree/Homeworks/Capstone%20Project/Models%20Training)
+Check Models training ➡️ (https://github.com/gialkady/Capstone-Project/tree/main/Models%20Training)
 
 ## Local Deployment
 
@@ -80,7 +80,7 @@ After the final model is obtained, apply the next steps:
 - Run model in the docker container in terminal 
 - Test response file
 
-For more details ➡️ ()
+For more details ➡️ (https://github.com/gialkady/Capstone-Project/tree/main/Local%20Deployment)
 
 ## Cloud Deployment 
 
@@ -94,4 +94,4 @@ For more details ➡️ ()
 - Expose the lambda function via API Gateway
 - Finally, you will have a public endpoint url through which the model can be tested. 
      
-For more details ➡️ ()
+For more details ➡️ (https://github.com/gialkady/Capstone-Project/tree/main/Cloud%20Deployment)
