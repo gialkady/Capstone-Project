@@ -2,11 +2,6 @@
 ![img](https://github.com/gialkady/Capstone-Project/blob/main/images/istockphoto-531306158-612x612.jpeg)
 
 
-## overview 
-
-This project is done as part of the Machine Learning course held by Alexey Grigorev.
-
-
 ## Idea (Problem Description)
 
 How many times you saw a food image on the internet and you feel that you want to eat it NOW 🤩 😉  
