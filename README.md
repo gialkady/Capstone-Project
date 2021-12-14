@@ -42,7 +42,7 @@ After downloading the dataset, i explored the folders and loaded some random ima
 - Number of mislabeled images.
 - Image shapes vary within class
 
-Most of the dataset problems can be solved through applying "Image augmentation". 
+Most of the dataset problems can be solved through applying "Data augmentation". It will be applied in the test time to increase the accuracy.
 
 ## Data preparation
 
